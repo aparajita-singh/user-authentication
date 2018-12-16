@@ -1,0 +1,9 @@
+{
+  "name": "Technical Task 1",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.16.4",
+    "google-auth-library": "^2.0.1",
+    "mongodb": "^3.1.10"
+  }
+}
